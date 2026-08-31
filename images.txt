@@ -21,3 +21,5 @@ redis:8.8.2
 postgres:18.4
 mysql:9.7.2
 apache/seata-server:2.6.0
+
+
