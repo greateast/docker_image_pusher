@@ -21,6 +21,7 @@
 # mysql:9.7.2
 # apache/seata-server:2.6.0
 # nginx:1.31.4
+# azul/zulu-openjdk:21
 
-azul/zulu-openjdk:21
+maven:3.9-eclipse-temurin-21-alpine
 
